@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class Add {
     static int Sum(int no1, int no2){
         return  no1 + no2;
+    }static int Product(int no1, int no2){
+        return  no1 * no2;
     }
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -14,6 +16,7 @@ public class Add {
         System.out.println("Enter No 2");
         int no2 = input.nextInt();
         System.out.println("Addition of two numbers is " + Sum(no1, no2));
+        System.out.println("product of two numbers is " + Product(no1, no2));
 
     }
 }

@@ -11,8 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/Assignment-7/Assignment-7.iml" filepath="$PROJECT_DIR$/Assignment-7/Assignment-7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment-8/Assignment-8.iml" filepath="$PROJECT_DIR$/Assignment-8/Assignment-8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignment-9/Assignment-9.iml" filepath="$PROJECT_DIR$/Assignment-9/Assignment-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Basic-Understanding/Java-Basic-Understanding.iml" filepath="$PROJECT_DIR$/Java-Basic-Understanding/Java-Basic-Understanding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode Questions/Leetcode Questions.iml" filepath="$PROJECT_DIR$/Leetcode Questions/Leetcode Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OOADL-Lab-Practicals-Java.iml" filepath="$PROJECT_DIR$/.idea/OOADL-Lab-Practicals-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
     </modules>
   </component>
 </project>
